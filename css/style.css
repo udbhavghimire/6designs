@@ -124,6 +124,9 @@
                 }
                 
                 .hero-img {
+                    position: absolute;
+                    bottom: 0;
+                    right: 0;
                     height: 450px;
                 }
                 
