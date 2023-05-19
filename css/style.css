@@ -126,7 +126,7 @@
                 .hero-img {
                     position: absolute;
                     bottom: 0;
-                    right: 0;
+                    right: 30px;
                     height: 450px;
                 }
                 
@@ -184,12 +184,12 @@
                 }
                 
                 .homebaba {
-                    font-size: 6rem !important;
+                    font-size: 3rem !important;
                     letter-spacing: 5px !important;
                 }
                 
                 .leaf-img {
-                    width: 100px;
+                    width: 70px;
                 }
                 
                 .fields {
@@ -213,6 +213,7 @@
                         display: flex;
                         justify-content: center !important;
                         align-items: center;
+                        position: relative;
                     }
                     #hero h1 {
                         font-size: 25px;
@@ -222,9 +223,6 @@
                         font-size: 16px;
                         line-height: 24px;
                         margin-bottom: 30px;
-                    }
-                    #hero .hero-img img {
-                        width: 70%;
                     }
                     .homebaba {
                         font-size: 2.5rem !important;
