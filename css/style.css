@@ -166,10 +166,9 @@
         }
         
         .foot-up-img {
-            height: 100px;
+            padding-top: 100px;
             margin-bottom: -5px;
             overflow: hidden;
-            background-image: url("../images/pencil.jpg");
             width: 100%;
         }
         
@@ -200,5 +199,11 @@
             }
             .navbar-brand-sm {
                 height: 100px;
+            }
+            .foot-up-img {
+                padding-top: 80px;
+                margin-bottom: -5px;
+                overflow: hidden;
+                width: 100%;
             }
         }
