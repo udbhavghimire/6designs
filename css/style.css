@@ -166,10 +166,11 @@
         }
         
         .foot-up-img {
-            opacity: 0.25;
+            height: 100px;
             margin-bottom: -5px;
             overflow: hidden;
-            width: 100% !important;
+            background-image: url("../images/pencil.jpg");
+            width: 100%;
         }
         
         @media (max-width: 768px) {
