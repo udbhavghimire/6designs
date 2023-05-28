@@ -149,12 +149,12 @@
 }
 
 .homebaba {
-    font-size: 3rem !important;
+    font-size: 2.5rem !important;
     letter-spacing: 3px !important;
 }
 
 .leaf-img {
-    width: 70px;
+    width: 35px;
 }
 
 .fields {
@@ -169,6 +169,12 @@
     padding-top: 100px;
     margin-bottom: -5px;
     overflow: hidden;
+    width: 100%;
+}
+
+.cnt-img {
+    height: 320px;
+    object-fit: contain;
     width: 100%;
 }
 
