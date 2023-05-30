@@ -172,11 +172,7 @@
     width: 100%;
 }
 
-.cnt-img {
-    height: 320px;
-    object-fit: contain;
-    width: 100%;
-}
+.cnt-img {}
 
 @media (max-width: 768px) {
     .hero-img {
