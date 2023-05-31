@@ -172,7 +172,15 @@
     width: 100%;
 }
 
-.cnt-img {}
+.cnt-img {
+    height: 320px;
+    object-fit: contain;
+    width: 100%;
+}
+
+.sm-text {
+    font-size: 12px;
+}
 
 @media (max-width: 768px) {
     .hero-img {
@@ -207,5 +215,8 @@
         margin-bottom: -5px;
         overflow: hidden;
         width: 100%;
+    }
+    .center-sm {
+        text-align: center;
     }
 }
