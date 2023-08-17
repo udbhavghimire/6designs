@@ -144,6 +144,14 @@
     transform: scale(1.04);
 }
 
+.img-text {
+    color: #000000;
+    font-weight: normal;
+    font-size: 1.2rem;
+    padding-top: 5px;
+    text-align: center;
+}
+
 .rounded-mine {
     border-radius: 10px;
 }
@@ -182,6 +190,10 @@
     font-size: 12px;
 }
 
+.mybot {
+    margin-bottom: 5px !important;
+}
+
 @media (max-width: 768px) {
     .hero-img {
         height: 350px;
@@ -218,5 +230,9 @@
     }
     .center-sm {
         text-align: center;
+    }
+    .small-text {
+        padding-left: 5px;
+        padding-right: 5px;
     }
 }
