@@ -92,8 +92,8 @@
 
     </section>
 
-    <div class="py-md-3 py-sm-0"></div>
-    <section id="clients" class="clients section-bg mb-5">
+    <div class="py-md-3 py-sm-0" id="Partners"></div>
+    <section class="clients section-bg mb-5">
         <div class="container">
 
             <div class="row d-flex  justify-content-between align-items-center" data-aos="fade-up" data-aos-duration="2000">
