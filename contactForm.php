@@ -14,12 +14,12 @@ $mail = new PHPMailer;
 $mail->isSMTP(); // Set mailer to use SMTP
 $mail->Host = 'mail.sixdesign.ca'; // Specify main and backup SMTP servers
 $mail->SMTPAuth = true; // Enable SMTP authentication
-$mail->Username = 'hello@sixdesign.ca'; // SMTP username
+$mail->Username = 'info@sixdesign.ca'; // SMTP username
 $mail->Password = 'mail@sixdesign'; // SMTP password
 $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587; // TCP port to connect to
 
-$mail->setFrom('hello@sixdesign.ca', $_POST['name']);
+$mail->setFrom('info@sixdesign.ca', $_POST['name']);
 $mail->addAddress('ghimireudbhav@gmail.com');
 
 $mail->addReplyTo($_POST['email']);
