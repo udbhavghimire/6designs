@@ -6,20 +6,22 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Project Marketing, CRM Integration  & Branding for Realtors, Brokerages & Builders</title>
+    <title>Website Design Company  | Toronto | Sixdesign.ca</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
-    <meta name="title" content="Project Marketing, CRM Integration  & Branding for Realtors, Brokerages & Builders">
-    <meta name="description" content="Stand Out From The Crowd. Need a beautiful website ? No website is too small or big for us!">
+    <meta name="title" content="Website Design Company  | Toronto | Sixdesign.ca">
+    <meta name="description" content="Sixdesign.ca is toronto based website design company. Sixdesign specialize in creating high-quality websites, captivating landing pages, and visually appealing designs tailored for realtors, brokerages, and builders.
+">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.sixdesign.ca/">
-    <meta property="og:title" content="Project Marketing, CRM Integration  & Branding for Realtors, Brokerages & Builders">
-    <meta property="og:description" content="Stand Out From The Crowd. Need a beautiful website ? No website is too small or big for us!">
+    <meta property="og:title" content="Website Design Company  | Toronto | Sixdesign.ca">
+    <meta property="og:description" content="Sixdesign.ca is toronto based website design company. Sixdesign specialize in creating high-quality websites, captivating landing pages, and visually appealing designs tailored for realtors, brokerages, and builders.
+">
     <meta property="og:image" content="https://sixdesign.ca/images/sixdesign-logo.svg">
 
     <link rel="stylesheet" href="css/silverBox.min.css">
@@ -275,6 +277,30 @@
                         </div>
                     
                     <div class ="img-text"><p class="img-text">Primont Place Condos</p></div>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="https://www.arborwesthome.ca/"  target="_blank" class="text-decoration-none">
+                        <div class="afte">
+                            <img src="images/13.png" alt="Arbor West Homes" class="img-fluid rounded-mine imghei ">
+                            <div class="img-text">
+                                <!-- <p class="mb-0">Strong Infrastructure</p> -->
+                            </div>
+                        </div>
+                    
+                    <div class ="img-text"><p class="img-text">Arbor West Homes</p></div>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="https://thepickering.ca/"  target="_blank" class="text-decoration-none">
+                        <div class="afte">
+                            <img src="images/14.png" alt="the pickering" class="img-fluid rounded-mine imghei ">
+                            <div class="img-text">
+                                <!-- <p class="mb-0">Strong Infrastructure</p> -->
+                            </div>
+                        </div>
+                    
+                    <div class ="img-text"><p class="img-text">The Pickering </p></div>
                     </a>
                 </div>
             </div>
