@@ -68,8 +68,14 @@
                             <li class="nav-item px-md-2 d-none d-md-block">
                                 <a href="#Contact" class="btn call-btn fss">
                                 Book Free Consulation
+                             
             </a>
                             </li>
+                            <li class="nav-item d-md-block">
+                         <a class="nav-link px-md-3 px-0" aria-current="page" href="tel:647-527-4970">
+                              <img src="images/call-img.png" alt="Call button" class="img-fluid call-btn-img">
+                         </a>
+                    </li>
                         </ul>
                     </div>
                 </div>
