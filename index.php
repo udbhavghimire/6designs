@@ -333,7 +333,7 @@
     <div class="my-5  py-md-3 py-1" id="Contact"></div>
     <div class="pt-5 mt-5" data-aos="fade-up" data-aos-duration="2000">
         <div class="row mx-0 ">
-            <img src="images/contact-img.png" loading="lazy" class="img-fluid cnt-img" alt="">
+            <img src="images/contact-img.webp" loading="lazy" class="img-fluid cnt-img" alt="">
             <!-- <h6 class="text-center fs-1 fw-bold pt-3 register "> Contact us today</h6> -->
             <div class="registertext  d-flex justify-content-center align-items-center  text-center px-5">
                 <!-- <p>Need a beautiful website ? No website is too small or big for us!
