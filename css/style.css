@@ -90,6 +90,13 @@
     /* align-items: center; */
 }
 
+.textt {
+    font-size: 26px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .hero-img {
     position: absolute;
     bottom: 0;

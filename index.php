@@ -64,6 +64,9 @@
                             <li class="nav-item px-md-2">
                                 <a class="nav-link scrollto" href="./design-elements/">Design Elements</a>
                             </li>
+                            <li class="nav-item px-md-2">
+                                <a class="nav-link scrollto" href="./difference-between-idx-and-vow/">Blogs</a>
+                            </li>
 
                             <li class="nav-item px-md-2 d-none d-md-block">
                                 <a href="#Contact" class="btn call-btn fss">
