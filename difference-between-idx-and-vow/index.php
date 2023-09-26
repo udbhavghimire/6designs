@@ -59,7 +59,16 @@
                                 <a class="nav-link scrollto" href="../design-elements/">Design Elements</a>
                             </li>
                             <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="index.php">Blogs</a>
+                                 <div class="dropdown">
+                            <a class="nav-link scrollto" href="#cities">Realtors
+                            <i class="bi bi-caret-down-fill"></i>
+                            </a>
+                                <div class="dropdown-menu" aria-labelledby="hoverDropdown">
+                                    <a class="dropdown-item" href="./index.php/">IDX vs VOW</a>
+                                    <a class="dropdown-item" href="../websites-for-realtors/"> Websites for Realtors</a>
+                                    
+                                </div>
+                                </div>
                             </li>
 
                             <li class="nav-item px-md-2 d-none d-md-block">

@@ -65,8 +65,18 @@
                                 <a class="nav-link scrollto" href="./design-elements/">Design Elements</a>
                             </li>
                             <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="./difference-between-idx-and-vow/">Blogs</a>
+                                 <div class="dropdown">
+                            <a class="nav-link scrollto" href="#cities">Realtors
+                            <i class="bi bi-caret-down-fill"></i>
+                            </a>
+                                <div class="dropdown-menu" aria-labelledby="hoverDropdown">
+                                    <a class="dropdown-item" href="./difference-between-idx-and-vow/">IDX vs VOW</a>
+                                    <a class="dropdown-item" href="./new-condos-whitby/"> Websites for Realtors</a>
+                                    
+                                </div>
+                                </div>
                             </li>
+
 
                             <li class="nav-item px-md-2 d-none d-md-block">
                                 <a href="#Contact" class="btn call-btn fss">
