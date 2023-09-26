@@ -60,7 +60,7 @@
                             </li>
                             <li class="nav-item px-md-2">
                                  <div class="dropdown">
-                            <a class="nav-link scrollto" href="#cities">Realtors
+                            <a class="nav-link scrollto" href="#cities">REALTORS® 
                             <i class="bi bi-caret-down-fill"></i>
                             </a>
                                 <div class="dropdown-menu" aria-labelledby="hoverDropdown">
