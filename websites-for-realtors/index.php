@@ -64,7 +64,7 @@
                             <i class="bi bi-caret-down-fill"></i>
                             </a>
                                 <div class="dropdown-menu" aria-labelledby="hoverDropdown">
-                                    <a class="dropdown-item" href="./index.php">IDX vs VOW</a>
+                                    <a class="dropdown-item" href="../difference-between-idx-and-vow/">IDX vs VOW</a>
                                     <a class="dropdown-item" href="../websites-for-realtors/"> Websites for Realtors</a>
                                     
                                 </div>
