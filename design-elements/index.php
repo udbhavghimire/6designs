@@ -29,59 +29,7 @@
     </head>
 
 <body>
-<div class="pt-md-5 pt-0 mt-0 d-md-block d-none "></div>
-    <div class="sticky-top topp bg-white pt-lg-2 pt-0 pt-md-0" id="header">
-        <nav class="navbar navbar-expand-md navbar-light" id="navbar">
-            <div class="container">
-                <a href="../" class="navbar-brand"><img src="../images/sixdesign-logo.svg" class="img-fluid navbar-brand " alt="Six design logo"></a>
-                <a href="#Contact" class="btn call-btn d-block d-md-none btn-sm py-2">
-      Book Free Consulation
-    </a>
-                <button class="d-block d-md-none btn" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M0 12H18V10H0V12ZM0 7H18V5H0V7ZM0 0V2H18V0H0Z" fill="black" />
-      </svg>
-    </button>
-                <div class="row me-0 row-cols-2 collapse navbar-collapse" id="navbarSupportedContent">
-                    <div class="col-12 d-flex justify-content-start justify-content-md-end">
-                        <ul class="navbar-nav mb-2 mb-lg-0 align-items-start align-items-md-center">
-                            <li class="nav-item">
-                                <a href="../" class="nav-link scrollto">Home
-                                </a>
-                            </li>
-                            <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="#Portfolio">Portfolio</a>
-                            </li>
-                            <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="#Partners">Partners</a>
-                            </li>
-                            <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="./design-elements/">Design Elements</a>
-                            </li>
-                            <li class="nav-item px-md-2">
-                                 <div class="dropdown">
-                            <a class="nav-link scrollto" href="#cities">REALTORS® 
-                            <i class="bi bi-caret-down-fill"></i>
-                            </a>
-                                <div class="dropdown-menu" aria-labelledby="hoverDropdown">
-                                    <a class="dropdown-item" href="../difference-between-idx-and-vow/">IDX vs VOW</a>
-                                    <a class="dropdown-item" href="../new-condos-whitby/"> Websites for Realtors</a>
-                                    
-                                </div>
-                                </div>
-                            </li>
-
-                            <li class="nav-item px-md-2 d-none d-md-block">
-                                <a href="../#Contact" class="btn call-btn fss">
-                                Book Free Consulation
-            </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </nav>
-    </div>
+<?php include_once('../components/header.php');  ?>
 
 <section>
     <div class = "d-flex justify-content-center align-items-center">
@@ -89,7 +37,50 @@
     </div>
 </section>
 
+<div class="my-5  py-md-3 py-1" id="Contact"></div>
+    <div class="pt-5 mt-5" data-aos="fade-up" data-aos-duration="2000">
+        <div class="row mx-0 ">
+            <img src="../images/contact-img.webp" loading="lazy" class="img-fluid cnt-img" alt="">
+            <!-- <h6 class="text-center fs-1 fw-bold pt-3 register "> Contact us today</h6> -->
+            <div class="registertext  d-flex justify-content-center align-items-center  text-center px-5">
+                <!-- <p>Need a beautiful website ? No website is too small or big for us!
+                </p> -->
+            </div>
 
+        </div>
+        <div class="row row-cols-1 row-cols-md-3 mx-0 g-5 pb-md-5">
+            <div class="col-md-3 "></div>
+            <div class="col-md-6 px-md-5 ">
+                <form action="../contactForm.php" method="POST">
+                    <div class="row ">
+                        <div class="mb-3 "><input type="text" placeholder="Name" name="name" class="fields"></div>
+
+                    </div>
+                    <div class="row row-cols-1 row-cols-sm-2 ">
+                        <div class="col">
+                            <div class="mb-3 "><input type="text" aria-describedby="emailHel" placeholder="Phone" name="phone" class="fields"></div>
+                        </div>
+                        <div class="col">
+                            <div class="mb-3 "><input type="text" aria-describedby="emailHelp" placeholder="Email" name="email" class="fields"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class=" "><textarea name="message" id="message" placeholder="Enter your message" class="fields mess"></textarea></div>
+                    </div>
+                    <div class="row">
+                        <p class=" text-muted sm-text text-center">I consent to receive future communications about Sixdesigns. I understand I can opt out at anytime by sending am email.</p>
+                    </div>
+                    <div class="row">
+                        <div class="col text-center"><input type="submit" value="Send" class="btn call-btn btn-sm p-2 px-4 btn-lg" id="subbtn2">
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="row-cols-md-3"></div>
+        </div>
+    </div>
+
+<?php include_once('../components/footer.php');  ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
