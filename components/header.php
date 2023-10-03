@@ -18,22 +18,22 @@
                     <div class="col-12 d-flex justify-content-start justify-content-md-end">
                         <ul class="navbar-nav mb-2 mb-lg-0 align-items-start align-items-md-center">
                             <li class="nav-item">
-                                <a href="#hero" class="nav-link scrollto" aria-current="page">
+                                <a href="../" class="nav-link scrollto" aria-current="page">
 
                                 </a>
                             </li>
                             <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="#Portfolio">Portfolio</a>
+                                <a class="nav-link scrollto" href="../#Portfolio">Portfolio</a>
                             </li>
                             <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="#Partners">Partners</a>
+                                <a class="nav-link scrollto" href="../#Partners">Partners</a>
                             </li>
                             <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="./design-elements/">Design Elements</a>
+                                <a class="nav-link scrollto" href="../design-elements/">Design Elements</a>
                             </li>
                             <li class="nav-item px-md-2">
                                  <div class="dropdown">
-                            <a class="nav-link scrollto" href="#cities">REALTORS® 
+                            <a class="nav-link scrollto" href="#">REALTORS® 
                             <i class="bi bi-caret-down-fill"></i>
                             </a>
                                 <div class="dropdown-menu" aria-labelledby="hoverDropdown">
