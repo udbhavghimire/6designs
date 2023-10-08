@@ -56,7 +56,7 @@
                                 </a>
                             </li>
                             <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="./our-works/">Our Works</a>
+                                <a class="nav-link scrollto" href="./our-work/">Our Work</a>
                             </li>
                             <li class="nav-item px-md-2">
                                 <a class="nav-link scrollto" href="./design-elements/">Design Elements</a>

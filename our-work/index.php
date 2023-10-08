@@ -35,7 +35,7 @@
 <div class="py-md-5 mt-md-5 mt-5 pt-5" id="Portfolio"></div>
     <section class="py-sm-3 " data-aos="fade-up" data-aos-duration="2000">
         <div class="container">
-        <h1 class="fw-bold fs-1 pb-2 text-center justify-content-center py-md-3 py-sm-0 " data-aos="fade-up" data-aos-duration="2000">
+        <h1 class="fw-bold big-titlee pb-2 text-center justify-content-center py-md-3 py-sm-0 " data-aos="fade-up" data-aos-duration="2000">
        We Know <span class="brand-color"> Websites</span>
       
     </h1>
