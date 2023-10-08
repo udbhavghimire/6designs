@@ -23,10 +23,7 @@
                                 </a>
                             </li>
                             <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="../#Portfolio">Portfolio</a>
-                            </li>
-                            <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="../#Partners">Partners</a>
+                                <a class="nav-link scrollto" href="../our-works/">Our Works</a>
                             </li>
                             <li class="nav-item px-md-2">
                                 <a class="nav-link scrollto" href="../design-elements/">Design Elements</a>

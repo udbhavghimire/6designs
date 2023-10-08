@@ -56,10 +56,7 @@
                                 </a>
                             </li>
                             <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="#Portfolio">Portfolio</a>
-                            </li>
-                            <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="#Partners">Partners</a>
+                                <a class="nav-link scrollto" href="./our-works/">Our Works</a>
                             </li>
                             <li class="nav-item px-md-2">
                                 <a class="nav-link scrollto" href="./design-elements/">Design Elements</a>
@@ -157,28 +154,28 @@
         <div class="container">
             <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 justify-content-center g-4 mt-2 px-2">
 
-                <div class="col">
+                <!-- <div class="col">
                     <a href="https://alba.homebaba.ca/" target="_blank" class="text-decoration-none">
                         <div class="afte">
                             <img src="images/1.png" alt="alba condos thumbnail" class="img-fluid rounded-mine imghei">
                         </div>
                     <div class ="img-text"><p class="img-text">Alba Condos</p></div>
                     </a>
-                </div>
-                <div class="col">
+                </div> -->
+                <!-- <div class="col">
                     <a href="https://kiplingstation-condo.ca/" target="_blank" class="text-decoration-none" class="text-decoration-none">
                         <div class="afte">
                             <img src="images/3.png" alt="kipling thumbnail" class="img-fluid rounded-mine imghei">
                         </div>
                     <div class ="img-text"><p class="img-text">Kipling Condos</p></div>
                     </a>
-                </div>
+                </div> -->
                 <div class="col">
                     <a href="https://tonyning.ca/" target="_blank" class="text-decoration-none">
                         <div class="afte">
                             <img src="images/2.png" alt="Tony Ning" class="img-fluid rounded-mine imghei">
                             <div class="img-text">
-                                <!-- <p class="mb-0">Thriving Tourism</p> -->
+                                
                             </div>
                         </div>
                     
@@ -191,7 +188,7 @@
                         <div href="#" class="afte">
                             <img src="images/4.png" alt="Shruti Dua" class="img-fluid rounded-mine imghei">
                             <div class="img-text">
-                                <!-- <p class="mb-0">Strong Infrastructure</p> -->
+                                
                             </div>
                         </div>
                     
@@ -203,7 +200,7 @@
                         <div class="afte">
                             <img src="images/7.png" alt="Knightsbridge Homes" class="img-fluid rounded-mine imghei ">
                             <div class="img-text">
-                                <!-- <p class="mb-0">Strong Infrastructure</p> -->
+                                
                             </div>
                         </div>
                     
@@ -215,7 +212,7 @@
                         <div class="afte">
                             <img src="images/5.png" alt="Oak Park Village" class="img-fluid rounded-mine imghei ">
                             <div class="img-text">
-                                <!-- <p class="mb-0">Strong Infrastructure</p> -->
+                              
                             </div>
                         </div>
                     
@@ -227,7 +224,7 @@
                         <div class="afte">
                             <img src="images/6.png" alt="Empire Wynfield thumbnail" class="img-fluid rounded-mine imghei ">
                             <div class="img-text">
-                                <!-- <p class="mb-0">Strong Infrastructure</p> -->
+                               
                             </div>
                         </div>
                     
@@ -241,7 +238,7 @@
                         <div class="afte">
                             <img src="images/8.png" alt="Queensland Condos thumbnail" class="img-fluid rounded-mine imghei ">
                             <div class="img-text">
-                                <!-- <p class="mb-0">Strong Infrastructure</p> -->
+                               
                             </div>
                         </div>
                     
@@ -254,7 +251,7 @@
                         <div class="afte">
                             <img src="images/9.png" alt="Niagara77 Condos" class="img-fluid rounded-mine imghei ">
                             <div class="img-text">
-                                <!-- <p class="mb-0">Strong Infrastructure</p> -->
+                               
                             </div>
                         </div>
                     
@@ -267,7 +264,7 @@
                         <div class="afte">
                             <img src="images/11.png" alt="Boutin Tower" class="img-fluid rounded-mine imghei ">
                             <div class="img-text">
-                                <!-- <p class="mb-0">Strong Infrastructure</p> -->
+                               
                             </div>
                         </div>
                     
@@ -279,7 +276,7 @@
                         <div class="afte">
                             <img src="images/10.png" alt="The Southlands Condos" class="img-fluid rounded-mine imghei ">
                             <div class="img-text">
-                                <!-- <p class="mb-0">Strong Infrastructure</p> -->
+                               
                             </div>
                         </div>
                     
@@ -291,7 +288,7 @@
                         <div class="afte">
                             <img src="images/12.png" alt="Primont Place Condos" class="img-fluid rounded-mine imghei ">
                             <div class="img-text">
-                                <!-- <p class="mb-0">Strong Infrastructure</p> -->
+                               
                             </div>
                         </div>
                     
@@ -303,7 +300,7 @@
                         <div class="afte">
                             <img src="images/13.png" alt="Arbor West Homes" class="img-fluid rounded-mine imghei ">
                             <div class="img-text">
-                                <!-- <p class="mb-0">Strong Infrastructure</p> -->
+                               
                             </div>
                         </div>
                     
@@ -315,13 +312,16 @@
                         <div class="afte">
                             <img src="images/14.png" alt="the pickering" class="img-fluid rounded-mine imghei ">
                             <div class="img-text">
-                                <!-- <p class="mb-0">Strong Infrastructure</p> -->
+                               
                             </div>
                         </div>
                     
                     <div class ="img-text"><p class="img-text">The Pickering </p></div>
                     </a>
                 </div>
+            </div>
+            <div class ="pt-3 pt-md-5 d-flex justify-content-center align-items-center">
+                <a href="" class=" fs-5  work-hov"> View all works <i class="bi bi-arrow-right"></i></a>
             </div>
         </div>
     </section>

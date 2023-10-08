@@ -90,6 +90,10 @@
     /* align-items: center; */
 }
 
+.width-mx {
+    max-width: 800px !important;
+}
+
 .textt {
     font-size: 26px;
     max-width: 800px;
@@ -140,6 +144,18 @@
     bottom: 0;
     right: 20px;
     height: 400px;
+}
+
+.work-hov {
+    text-decoration: none;
+    color: #000000;
+    font-weight: 500;
+}
+
+.work-hov:hover {
+    text-decoration: none;
+    color: #FF2D1A;
+    font-weight: 500;
 }
 
 .dot {
@@ -252,47 +268,38 @@
         text-align: center;
         position: relative;
     }
-
     .hero-text {
         height: 30vh;
         margin-top: 5rem !important;
         margin-bottom: 0;
     }
-
     .homebaba {
         font-size: 2.5rem !important;
         letter-spacing: 3px !important;
     }
-
     .leaf-img {
         width: 50px;
     }
-
     .navbar-brand {
         height: 80px;
         margin-right: 0rem !important;
     }
-
     .navbar-brand-sm {
         height: 100px;
     }
-
     .foot-up-img {
         padding-top: 80px;
         margin-bottom: -5px;
         overflow: hidden;
         width: 100%;
     }
-
     .center-sm {
         text-align: center;
     }
-
     .small-text {
         padding-left: 5px;
         padding-right: 5px;
     }
-
     .call-btn-img {
         width: 150px;
     }
