@@ -321,7 +321,7 @@
                 </div>
             </div>
             <div class ="pt-3 pt-md-5 d-flex justify-content-center align-items-center">
-                <a href="" class=" fs-5  work-hov"> View all works <i class="bi bi-arrow-right"></i></a>
+                <a href="./our-works/" class=" fs-5  work-hov"> View all works <i class="bi bi-arrow-right"></i></a>
             </div>
         </div>
     </section>
