@@ -10,15 +10,15 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
-    <meta name="title" content="Sixdesign - Website Design Company | Works">
-    <meta name="description" content="Sixdesign - Website Design Company | Works">
+    <meta name="title" content="Sixdesign - Toronto Based Website Design Company | Works">
+    <meta name="description" content="Sixdesign.ca is toronto based website design company. Sixdesign specialize in creating high-quality websites, captivating landing pages, and visually appealing designs tailored for realtors, brokerages, and builders.">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.sixdesign.ca/">
-    <meta property="og:title" content="Sixdesign - Website Design Company | Works">
-    <meta property="og:description" content="Sixdesign - Website Design Company | Works">
-    <meta property="og:image" content="https://sixdesign.ca/images/sixdesign-logo.svg">
+    <meta property="og:title" content="Sixdesign - Toronto Based Website Design Company | Works">
+    <meta property="og:description" content="Sixdesign.ca is toronto based website design company. Sixdesign specialize in creating high-quality websites, captivating landing pages, and visually appealing designs tailored for realtors, brokerages, and builders.">
+    <meta property="og:image" content="https://sixdesign.ca/images.works.JPG">
 
     <link rel="stylesheet" href="../css/silverBox.min.css">
     <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
@@ -36,11 +36,11 @@
     <section class="py-sm-3 " data-aos="fade-up" data-aos-duration="2000">
         <div class="container">
         <h1 class="fw-bold big-titlee pb-2 text-center justify-content-center py-md-3 py-sm-0 " data-aos="fade-up" data-aos-duration="2000">
-       We Know <span class="brand-color"> Websites</span>
+       We Know <span class="brand-color"> Websites.</span>
       
     </h1>
     
-        <span class="fs-4 d-flex justify-content-center  text-center px-1">Explore our portfolio to witness how our work delivers tangible results and contributes to client success.</span>
+        <span class="fs-4 d-flex justify-content-center  text-center px-1">Trusted by 300+ amazing clients across Greater Toronto Area</span>
      
             <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 justify-content-center g-4 mt-2 px-2">
 
