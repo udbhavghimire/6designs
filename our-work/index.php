@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
-    <meta name="title" content="Sixdesign - Toronto Based Website Design Company | Works">
+    <meta name="title" content="Sixdesign - Landing pages and website for realtors | Toronto">
     <meta name="description" content="Sixdesign.ca is toronto based website design company. Sixdesign specialize in creating high-quality websites, captivating landing pages, and visually appealing designs tailored for realtors, brokerages, and builders.">
 
     <!-- Open Graph / Facebook -->
@@ -35,12 +35,12 @@
 <div class="py-md-5 mt-md-5 mt-5 pt-5" id="Portfolio"></div>
     <section class="py-sm-3 " data-aos="fade-up" data-aos-duration="2000">
         <div class="container">
-        <h1 class="fw-bold big-titlee pb-2 text-center justify-content-center py-md-3 py-sm-0 " data-aos="fade-up" data-aos-duration="2000">
+        <h1 class="fw-bold big-titlee  text-center justify-content-center pt-md-3 py-sm-0 " data-aos="fade-up" data-aos-duration="2000">
        We Know <span class="brand-color"> Websites.</span>
       
     </h1>
     
-        <span class="fs-4 d-flex justify-content-center  text-center px-1">Trusted by 300+ amazing clients across Greater Toronto Area</span>
+        <span class="fs-4 d-flex justify-content-center text-center px-1">Trusted by 300+ amazing clients across Greater Toronto Area</span>
      
             <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 justify-content-center g-4 mt-2 px-2">
 
