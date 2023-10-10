@@ -36,7 +36,7 @@
     <section class="py-sm-3 " data-aos="fade-up" data-aos-duration="2000">
         <div class="container">
         <h1 class="fw-bold big-titlee  text-center justify-content-center pt-md-3 py-sm-0 " data-aos="fade-up" data-aos-duration="2000">
-       We Know <span class="brand-color"> Websites.</span>
+       We Know <span class="brand-color"> Real Estate.</span>
       
     </h1>
     
