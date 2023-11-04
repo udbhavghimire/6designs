@@ -34,7 +34,7 @@
 
 <section>
     <div class = "mt-5">
-    <h1 class ="text-center pt-md-5 d-flex justify-content-center align-items-center">Toronto Real estate website for realtors | IDX & VOW
+    <h1 class ="text-center pt-md-5 d-flex justify-content-center align-items-center">Toronto Real Estate Website for Realtors | IDX & VOW
 </h1>
     <div class= "d-flex justify-content-center align-items-center">
     <p class="textt pt-5 mx-4">
@@ -89,7 +89,7 @@ If you are real estate agent in Toronto and looking to build a Resale website lo
 </div>
 
     <div class = "mt-5">
-    <h2 class ="text-center pt-md-5 d-flex justify-content-center align-items-center">What Is the Difference Between IDX and VOW?</h2>
+    <a href="https://www.sixdesign.ca/difference-between-idx-and-vow/" target="_blank" class="text-decoration-none text-dark"><h2 class ="text-center pt-md-5 d-flex justify-content-center align-items-center">What Is the Difference Between IDX and VOW?</h2></a>
 
     <div class= "d-flex justify-content-center align-items-center">
     <p class="textt pt-4 mx-4">When it comes to real estate websites, you may have encountered terms like IDX and VOW. Both play crucial roles in helping buyers and sellers connect in the digital real estate landscape, but they serve different purposes and have distinct features. In this article, we'll dive into the key differences between IDX (Internet Data Exchange) and VOW (Virtual Office Website) to help you better understand their functions and benefits.
