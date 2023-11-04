@@ -273,53 +273,49 @@
         text-align: center;
         position: relative;
     }
-
     .hero-text {
         height: 30vh;
         margin-top: 5rem !important;
         margin-bottom: 0;
     }
-
     .homebaba {
         font-size: 2.5rem !important;
         letter-spacing: 3px !important;
     }
-
     .leaf-img {
         width: 50px;
     }
-
     .navbar-brand {
         height: 80px;
         margin-right: 0rem !important;
     }
-
     .navbar-brand-sm {
         height: 100px;
     }
-
     .foot-up-img {
         padding-top: 80px;
         margin-bottom: -5px;
         overflow: hidden;
         width: 100%;
     }
-
     .center-sm {
         text-align: center;
     }
-
     .small-text {
         padding-left: 5px;
         padding-right: 5px;
     }
-
     .call-btn-img {
         width: 150px;
     }
-
     .big-titlee {
         font-size: 42px;
         font-weight: 700;
+    }
+    .dropdown:hover .dropdown-menu {
+        display: block;
+        margin-top: 0;
+        right: 0 !important;
+        transform: translateX(0);
     }
 }
