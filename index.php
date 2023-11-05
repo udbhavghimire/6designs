@@ -121,11 +121,11 @@
                 </div>
 
                 <div class="col-lg-2 col-md-2 col-6 px-5 d-flex align-items-center justify-content-center">
-                    <img src="images/TWT-Black-Logo-final.png" class="img-fluid" alt="">
+                    <img src="images/dolphy.png" class="img-fluid" alt="">
                 </div>
 
                 <div class="col-lg-2 col-md-2 col-6 px-5 d-flex align-items-center justify-content-center">
-                    <img src="images/rego-logo-black-1024x633.png" class="img-fluid" alt="">
+                    <img src="images/baystreet.png" class="img-fluid" alt="">
                 </div>
 
                 <div class="col-lg-2 col-md-2 col-6 px-5 d-flex align-items-center justify-content-center">
