@@ -120,9 +120,13 @@
                     <h1 class="pt-5 mt-4 pb-lg-4 pb-2 mb-0 fw-bold fs-1">Some of our <span class="brand-color"> trusted clients</span>
                 </div>
 
-                <div class="col-lg-2 col-md-2 col-6 px-5 d-flex align-items-center justify-content-center">
+               
+               <div class="col-lg-2 col-md-2 col-6 px-5 d-flex align-items-center justify-content-center">
+               <a href="https://dolphy.ca/pre-construction-homes/calgary" target="_blank">
                     <img src="images/dolphy.png" class="img-fluid" alt="">
+                    </a>
                 </div>
+              
 
                 <div class="col-lg-2 col-md-2 col-6 px-5 d-flex align-items-center justify-content-center">
                     <img src="images/baystreet.png" class="img-fluid" alt="">
@@ -322,7 +326,7 @@
                 </div>
             </div>
             <div class ="pt-3 pt-md-5 d-flex justify-content-center align-items-center">
-                <a href="./our-work/" class=" fs-5  work-hov"> View all works <i class="bi bi-arrow-right"></i></a>
+                <a href="./our-work/" class=" fs-5  work-hov"> View our work  <i class="bi bi-arrow-right"></i></a>
             </div>
         </div>
     </section>
