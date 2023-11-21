@@ -32,7 +32,15 @@
     <div class="d-flex justify-content-center align-content-center">
     <img src="../images/dolphy.png" class="img-fluid" alt="Dolphy.ca">
     </div>
-   <p class=" pb-3 text-center textt px-2"><a href="https://dolphy.ca/pre-construction-homes/calgary" target="_blank" class="fw-bold">Dolphy.ca</a> is a canada's leading platform for pre construction townhomes, condos & detached homes in Calgary. Dolphy has the most updated information on upcoming and new projects happening in Calgary. </p></div>
+   <p class=" pb-3 width-mx px-2 fs-4"><a href="https://dolphy.ca/pre-construction-homes/calgary" target="_blank" class="fw-bold">
+    Dolphy.ca</a> is a canada's <a href="https://dolphy.ca/pre-construction-homes/calgary" target="_blank" class="text-decoration-none text-dark">
+   leading platform for pre construction townhomes, condos & detached homes in Calgary.</a> Dolphy has the most updated information on upcoming and new projects happening in Calgary.
+
+<br><br>
+With a reputation for excellence, Dolphy has established itself as a leader in the real estate market, providing prospective buyers and investors with unparalleled access to the latest and most comprehensive information on upcoming projects in the region. As a trusted resource, Dolphy platform ensures that users have access to the most up-to-date details on new developments, keeping them informed about the rapidly evolving landscape of Calgary's real estate market. The platform's commitment to accuracy and timeliness makes it an indispensable tool for those navigating the dynamic world of pre-construction real estate. Whether one is looking for a modern townhome, a stylish condo, or a spacious detached home, Dolphy's extensive database and user-friendly interface empower individuals to make informed decisions in their quest for the perfect property. 
+<br><br>
+With Dolphy.ca, the journey to finding and securing a dream home in Calgary becomes a seamless and exciting experience, reflecting the platform's dedication to excellence in real estate services.
+</p></div>
  
 </section>
 

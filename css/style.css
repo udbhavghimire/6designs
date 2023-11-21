@@ -96,7 +96,9 @@
 }
 
 .width-mx {
-    max-width: 800px !important;
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .textt {
