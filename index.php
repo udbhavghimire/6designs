@@ -123,7 +123,7 @@
                
                <div class="col-lg-2 col-md-2 col-6 px-5 d-flex align-items-center justify-content-center">
                <a href="./dolphy/" target="_blank">
-                    <img src="images/dolphy.png" class="img-fluid" alt="">
+                    <img src="images/dolphy.svg" class="img-fluid" alt="">
                     </a>
                 </div>
               

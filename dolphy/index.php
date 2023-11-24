@@ -29,8 +29,8 @@
 
 <section>
     <div class = "container pt-5">
-    <div class="d-flex justify-content-center align-content-center">
-    <img src="../images/dolphy.png" class="img-fluid" alt="Dolphy.ca">
+    <div class="d-flex justify-content-center align-content-center pb-4">
+    <img src="../images/dolphy.svg" class="dolphy" alt="Dolphy.ca">
     </div>
    <p class=" pb-3 width-mx px-2 fs-4">Dolphy.ca is a canada's <a href="https://dolphy.ca/pre-construction-homes/calgary" target="_blank" class=" fw-bold text-dark text-decoration-none">
    leading platform for pre construction townhomes, condos & detached homes in Calgary.</a> Dolphy has the most updated information on upcoming and new projects happening in Calgary.
@@ -39,9 +39,21 @@
 With a reputation for excellence, <a href="https://dolphy.ca/pre-construction-homes" target="_blank" class="fw-bold">Dolphy</a> has established itself as a leader in the real estate market, providing prospective buyers and investors with unparalleled access to the latest and most comprehensive information on upcoming projects in the region. As a trusted resource, Dolphy platform ensures that users have access to the most up-to-date details on new developments, keeping them informed about the rapidly evolving landscape of Calgary's real estate market. The platform's commitment to accuracy and timeliness makes it an indispensable tool for those navigating the dynamic world of pre-construction real estate. Whether one is looking for a modern townhome, a stylish condo, or a spacious detached home, Dolphy's extensive database and user-friendly interface empower individuals to make informed decisions in their quest for the perfect property. 
 <br><br>
 With Dolphy.ca, the journey to finding and securing a dream home in Calgary becomes a seamless and exciting experience, reflecting the platform's dedication to excellence in real estate services.
-</p></div>
+</p>
+
+<div class="pt-5">
+<div class="row row-cols-1" >
+<img src="../images/dolphyss2.JPG" class="pt-5" alt="">
+<img src="../images/dolphyss1.JPG" class="pt-5 " alt="">
+</div>
+</div>
+
+</div>
+
+
  
 </section>
+
 
 
 <div class="my-5  py-md-3 py-1" id="Contact"></div>

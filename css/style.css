@@ -266,6 +266,10 @@
     margin-bottom: 5px !important;
 }
 
+.dolphy {
+    height: 200px !important;
+}
+
 @media (max-width: 768px) {
     .hero-img {
         height: 350px;
@@ -319,5 +323,8 @@
         margin-top: 0;
         right: 0 !important;
         transform: translateX(0);
+    }
+    .dolphy {
+        height: 100px !important;
     }
 }
