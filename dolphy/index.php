@@ -42,11 +42,13 @@ With Dolphy.ca, the journey to finding and securing a dream home in Calgary beco
 </p>
 
 <div class="pt-5">
-<div class="row row-cols-1" >
-<img src="../images/dolphyss2.JPG" class="pt-5" alt="">
-<img src="../images/dolphyss1.JPG" class="pt-5 " alt="">
+<div class="row row-cols-md-2 row-cols-1 ">
+<img src="../images/dolphyss1.png" class="pt-5 afte" alt="">
+<img src="../images/dolphyss2.png" class="pt-5 afte "alt="">
 </div>
 </div>
+
+
 
 </div>
 
