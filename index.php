@@ -335,15 +335,37 @@
     <section class="mt-5" data-aos="fade-up" data-aos-duration="2000">
         <div class="container">
             <h2 class="fw-bold fs-1 pb-2 text-center justify-content-center py-md-3 py-sm-0 ">
-                Our Preconstruction Partner
+                Our  Preconstruction  <span class="brand-color">Partners </span>
             </h2>
-            <div class="row  d-flex justify-content-center">
-                <div class="d-flex justify-content-center align-items-center">
-                    <a href="https://homebaba.ca/" target="_blank" class="text-decoration-none text-dark">
-                        <h1 class=" fw-bold fs-1 justify-content-center homebaba d-flex">Homebaba</h1>
+            <div class="row row-cols-md-2 row-cols-1 d-flex justify-content-center">
+                
+                    <div class="col">
+                    <a href="https://homebaba.ca/"  target="_blank" class="text-decoration-none">
+                        <div class="afte">
+                            <img src="images/homebaba.JPG" alt=" homebaba" class="img-fluid rounded-mine imghei ">
+                            <div class="img-text">
+                               
+                            </div>
+                        </div>
+                    
+                    <div class ="img-text"><p class="img-text">Homebaba </p></div>
                     </a>
-                    <img src="images/canadaleaf.svg" class="img-fluid leaf-img " alt="">
                 </div>
+               
+                
+                <div class="col">
+                <a href="https://condomonk.ca/"  target="_blank" class="text-decoration-none">
+                    <div class="afte">
+                        <img src="images/condomonk.JPG" alt=" condomonk" class="img-fluid rounded-mine imghei ">
+                        <div class="img-text">
+                           
+                        </div>
+                    </div>
+                
+                <div class ="img-text"><p class="img-text">Condomonk </p></div>
+                </a>
+            </div>
+            
             </div>
         </div>
     </section>
