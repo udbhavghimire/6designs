@@ -279,7 +279,7 @@
                                 <div id="" class="step screensteps-section screensteps-depth-2"
                                     data-step-uuid="2e29d112-614e-4a00-b3ad-db6383e31dc8">
                                     <div class="image screensteps-image">
-                                        <img src="../assets/10.png"
+                                        <img src="../assets/10.jpeg"
                                             alt="Copy_of_TRREB_Online_Agreements_-_Guideline.png" width="704"
                                             height="183" class="bottom10" />
                                     </div>
@@ -384,14 +384,14 @@
                                         <p>
                                             You will also need to enter 1 or 2 domain names,
                                             depending on how many websites you're having with
-                                            AgentLocator.
+                                            Homebaba.
                                         </p>
                                         <p>Finally, check off the areas which are in GREEN.</p>
                                         <p>Press the <strong>Send to AVP button.</strong></p>
                                         <p>
                                             <span class="wysiwyg-underline">NOTE: Do not enter any domain names that are
                                                 NOT
-                                                associated with your AgentLocator account.</span>
+                                                associated with your Homebaba account.</span>
                                         </p>
                                         <p>
                                             <img src="../assets/17.png" alt="treb-vow.png" width="703" height="541"
