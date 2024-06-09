@@ -147,7 +147,7 @@
                             <div id="" class="step screensteps-section screensteps-depth-1"
                                 data-step-uuid="63de9346-bd52-4ca6-ad72-dabe748a1e43">
                                 <div class="image screensteps-image">
-                                    <img src="../assets/3.png" alt="TRREB_Online_Agreements_-_Guideline__15_.png"
+                                    <img src="../assets/3.jpeg" alt="TRREB_Online_Agreements_-_Guideline__15_.png"
                                         width="702" height="395" />
                                 </div>
                                 <div class="image screensteps-image spacey">
@@ -205,8 +205,7 @@
                                             For Third-Party Contact enter
                                             <strong>Support&nbsp;</strong>and for Third-Party Email
                                             enter
-                                            <strong><a
-                                                    href="mailto:support@agentlocator.ca">info@homebaba.ca</a></strong>
+                                            <strong><a href="mailto:info@homebaba.ca">info@homebaba.ca</a></strong>
                                         </p>
                                         <p class="smallfont">
                                             Finally, check off the selected box and click on
@@ -233,7 +232,7 @@
                             <div id="idx_data_feed_agreements" class="step screensteps-section screensteps-depth-1"
                                 data-step-uuid="5d06db57-1fa5-400a-8799-b988e5009fe7">
                                 <p>
-                                    <img src="../assets/7.png" alt="TRREB_Online_Agreements_-_Guideline__15_.png"
+                                    <img src="../assets/3.jpeg" alt="TRREB_Online_Agreements_-_Guideline__15_.png"
                                         width="702" height="395" class="bottom10" />
                                 </p>
                                 <p class="smallfont marginT">
@@ -273,8 +272,7 @@
                                             For Third-Party Contact enter
                                             <strong>Support&nbsp;</strong>and for Third-Party Email
                                             enter
-                                            <strong><a
-                                                    href="mailto:support@agentlocator.ca">info@homebaba.ca</a></strong>
+                                            <strong><a href="mailto:info@homebaba.ca">info@homebaba.ca</a></strong>
                                         </p>
                                     </div>
                                 </div>
@@ -292,7 +290,7 @@
                                         <p>
                                             You will also need to enter 1 or 2 domain names,
                                             depending on how many websites you're having with
-                                            AgentLocator.
+                                            Homebaba.
                                         </p>
                                         <p>
                                             Finally, check off the two areas which are in
@@ -301,7 +299,7 @@
                                         <p>
                                             <span class="wysiwyg-underline">NOTE: Do not enter any domain names that are
                                                 NOT
-                                                associated with your AgentLocator account.<img src="../assets/11.jpeg"
+                                                associated with your Homebaba account.<img src="../assets/11.jpeg"
                                                     alt="imageedit_31_5059853952.jpg" width="702" height="278"
                                                     class="bottom10" /></span>
                                         </p>
@@ -331,7 +329,7 @@
                             <div id="vow_data_feed_agreements" class="step screensteps-section screensteps-depth-1"
                                 data-step-uuid="bd6657d7-85fb-46de-8a8e-406ef32032c7">
                                 <p>
-                                    <img src="../assets/13.png" alt="TRREB_Online_Agreements_-_Guideline__15_.png"
+                                    <img src="../assets/3.jpeg" alt="TRREB_Online_Agreements_-_Guideline__15_.png"
                                         width="704" height="396" class="bottom10" />
                                 </p>
                                 <div class="step-instructions screensteps-textblock smallfont">
@@ -374,7 +372,7 @@
                                                     href="mailto:support@agentlocator.ca">info@homebaba.ca</a></strong>
                                         </p>
                                         <p>
-                                            <img src="../assets/16.png"
+                                            <img src="../assets/16.jpeg"
                                                 alt="Copy_of_TRREB_Online_Agreements_-_Guideline.png" width="704"
                                                 height="183" class="bottom10" />
                                         </p>
