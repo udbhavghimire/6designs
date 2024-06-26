@@ -127,41 +127,51 @@
     <section class="clients section-bg mb-5">
         <div class="container">
 
-            <div class="row d-flex  justify-content-between align-items-center" data-aos="fade-up"
-                data-aos-duration="2000">
-                <div class="pb-3 text-center">
-                    <h1 class="pt-5 mt-4 pb-lg-4 pb-2 mb-0 fw-bold fs-1">Some of our <span class="brand-color"> trusted
-                            clients</span>
-                </div>
 
+            <div class="pb-3 text-center">
+                <h1 class="pt-5 mt-4 pb-lg-4 pb-2 mb-0 fw-bold fs-1">Some of our <span class="brand-color"> trusted
+                        clients</span>
+            </div>
 
-                <div class="col-lg-2 col-md-2 col-6 px-5 d-flex align-items-center justify-content-center">
+            <div class="row row-cols-lg-4 row-cols-2 d-flex  justify-content-between align-items-center"
+                data-aos="fade-up" data-aos-duration="2000">
+                <div class="col px-md-5 px-0 ">
                     <a href="./dolphy/" target="_blank">
-                        <img src="images/dolphy.svg" class="img-fluid" alt="">
+                        <img src="images/dolphy.svg" class="client-img" alt="">
                     </a>
                 </div>
 
-
-                <div class="col-lg-2 col-md-2 col-6 px-5 d-flex align-items-center justify-content-center">
-                    <img src="images/baystreet.png" class="img-fluid" alt="">
+                <div class="col px-md-5 px-0 ">
+                    <img src="images/baystreet.png" class="client-img" alt="">
                 </div>
 
-                <div class="col-lg-2 col-md-2 col-6 px-5 d-flex align-items-center justify-content-center">
-                    <img src="images/dolphin.png" class="img-fluid" alt="">
+                <div class="col px-md-5 px-0 ">
+                    <img src="images/dolphin.png" class="client-img" alt="">
                 </div>
 
-                <div class="col-lg-2 col-md-2 col-6 px-5 d-flex align-items-center justify-content-center">
-                    <img src="images/condomonk.png" class="img-fluid" alt="">
+                <div class="col px-md-5 px-0 ">
+                    <a href="https://condomonk.ca/" target="_blank">
+                        <img src="images/condomonk.png" class="client-img" alt="">
+                    </a>
                 </div>
 
-                <div class="col-lg-2 col-md-2 col-6 px-5 d-flex align-items-center justify-content-center">
-                    <img src="images/elixar.png" class="img-fluid" alt="">
+                <div class="col px-md-5 px-0 ">
+                    <img src="images/elixar.png" class="client-img" alt="">
                 </div>
 
-                <div class="col-lg-2 col-md-2 col-6 px-5 d-flex align-items-center justify-content-center">
-                    <img src="images/tony.png" class="img-fluid" alt="">
+                <div class="col px-md-5 px-0 ">
+                    <img src="images/tony.png" class="client-img" alt="">
                 </div>
 
+                <div class="col px-md-5 px-0 ">
+                    <a href="https://www.icommission.ca/" target="_blank">
+                        <img src="images/icommission.png" class="client-img" alt="">
+                    </a>
+                </div>
+
+                <div class="col px-md-5 px-0 ">
+                    <img src="images/CondoWong.webp" class="client-img" alt="">
+                </div>
             </div>
 
         </div>
