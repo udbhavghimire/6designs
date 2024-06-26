@@ -205,16 +205,16 @@
                     </a>
                 </div> -->
                 <div class="col">
-                    <a href="https://tonyning.ca/" target="_blank" class="text-decoration-none">
+                    <a href="https://www.icommission.ca/" target="_blank" class="text-decoration-none">
                         <div class="afte">
-                            <img src="images/2.png" alt="Tony Ning" class="img-fluid rounded-mine imghei">
+                            <img src="images/19.png" alt="Icommission" class="img-fluid rounded-mine imghei">
                             <div class="img-text">
 
                             </div>
                         </div>
 
                         <div class="img-text">
-                            <p class="img-text">Tony Ning</p>
+                            <p class="img-text">iCommission</p>
                         </div>
                     </a>
                 </div>
