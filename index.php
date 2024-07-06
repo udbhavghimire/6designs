@@ -196,14 +196,17 @@
                     <div class ="img-text"><p class="img-text">Alba Condos</p></div>
                     </a>
                 </div> -->
-                <!-- <div class="col">
-                    <a href="https://kiplingstation-condo.ca/" target="_blank" class="text-decoration-none" class="text-decoration-none">
+                <div class="col">
+                    <a href="https://www.condowong.ca/" target="_blank" class="text-decoration-none"
+                        class="text-decoration-none">
                         <div class="afte">
-                            <img src="images/3.png" alt="kipling thumbnail" class="img-fluid rounded-mine imghei">
+                            <img src="images/condowong-work.png" alt="Condowong" class="img-fluid rounded-mine imghei">
                         </div>
-                    <div class ="img-text"><p class="img-text">Kipling Condos</p></div>
+                        <div class="img-text">
+                            <p class="img-text">Condowong</p>
+                        </div>
                     </a>
-                </div> -->
+                </div>
                 <div class="col">
                     <a href="https://www.icommission.ca/" target="_blank" class="text-decoration-none">
                         <div class="afte">
@@ -320,20 +323,6 @@
 
                         <div class="img-text">
                             <p class="img-text">Boutin Tower</p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col">
-                    <a href="https://www.thesouthland.ca/" target="_blank" class="text-decoration-none">
-                        <div class="afte">
-                            <img src="images/10.png" alt="The Southlands Condos" class="img-fluid rounded-mine imghei ">
-                            <div class="img-text">
-
-                            </div>
-                        </div>
-
-                        <div class="img-text">
-                            <p class="img-text">The Southlands Condos</p>
                         </div>
                     </a>
                 </div>
