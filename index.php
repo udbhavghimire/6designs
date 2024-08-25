@@ -386,7 +386,7 @@
                 <div class="col">
                     <a href="https://homebaba.ca/" target="_blank" class="text-decoration-none">
                         <div class="afte">
-                            <img src="images/homebaba.JPG" alt=" homebaba" class="img-fluid rounded-mine imghei2 ">
+                            <img src="images/homebaba.png" alt=" homebaba" class="img-fluid rounded-mine imghei2 ">
                             <div class="img-text">
 
                             </div>
