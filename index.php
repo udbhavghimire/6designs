@@ -133,26 +133,40 @@
                         clients</span>
             </div>
 
-            <div class="row row-cols-lg-4 row-cols-2 d-flex  justify-content-between align-items-center"
+            <div class="row row-cols-lg-5 row-cols-3 d-flex  justify-content-between align-items-center"
                 data-aos="fade-up" data-aos-duration="2000">
+                <div class="col px-md-5 px-0 ">
+                    <a href="https://homebaba.ca/" target="_blank">
+                        <img src="images/homebaba logo.svg" class="client-img2" alt="">
+                    </a>
+                </div>
                 <div class="col px-md-5 px-0 ">
                     <a href="./dolphy/" target="_blank">
                         <img src="images/dolphy.svg" class="client-img" alt="">
                     </a>
                 </div>
-
                 <div class="col px-md-5 px-0 ">
-                    <img src="images/baystreet.png" class="client-img" alt="">
+                    <a href="https://condomonk.ca/" target="_blank">
+                        <img src="images/condomonk.png" class="client-img2" alt="">
+                    </a>
                 </div>
 
+
+                <div class="col px-md-5 px-0 ">
+                    <a href="https://lowrise.ca/" target="_blank">
+                        <img src="images/lowriselogo.svg" class="client-img" alt="">
+                    </a>
+                </div>
+                <div class="col px-md-5 px-0 ">
+                    <a href="https://www.icommission.ca/" target="_blank">
+                        <img src="images/icommission.png" class="client-img" alt="">
+                    </a>
+                </div>
                 <div class="col px-md-5 px-0 ">
                     <img src="images/dolphin.png" class="client-img" alt="">
                 </div>
-
                 <div class="col px-md-5 px-0 ">
-                    <a href="https://condomonk.ca/" target="_blank">
-                        <img src="images/condomonk.png" class="client-img" alt="">
-                    </a>
+                    <img src="images/baystreet.png" class="client-img" alt="">
                 </div>
 
                 <div class="col px-md-5 px-0 ">
@@ -163,11 +177,7 @@
                     <img src="images/tony.png" class="client-img" alt="">
                 </div>
 
-                <div class="col px-md-5 px-0 ">
-                    <a href="https://www.icommission.ca/" target="_blank">
-                        <img src="images/icommission.png" class="client-img" alt="">
-                    </a>
-                </div>
+
 
                 <div class="col px-md-5 px-0 ">
                     <img src="images/CondoWong.webp" class="client-img" alt="">

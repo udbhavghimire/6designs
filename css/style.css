@@ -180,6 +180,12 @@
     height: 130px;
 }
 
+.client-img2 {
+    object-fit: contain;
+    width: 170px !important;
+    height: 230px !important;
+}
+
 .clients {
     padding: 12px 0;
     text-align: center;
