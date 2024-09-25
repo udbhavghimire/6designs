@@ -133,47 +133,48 @@
                         clients</span>
             </div>
 
-            <div class="row row-cols-lg-5 row-cols-3 d-flex  justify-content-between align-items-center"
+            <div class="row row-cols-lg-5 row-cols-2 d-flex  justify-content-between align-items-center pt-3 pt-md-0"
                 data-aos="fade-up" data-aos-duration="2000">
-                <div class="col px-md-5 px-0 ">
+                <div class="col ">
                     <a href="https://homebaba.ca/" target="_blank">
                         <img src="images/homebaba logo.svg" class="client-img2" alt="">
                     </a>
                 </div>
-                <div class="col px-md-5 px-0 ">
-                    <a href="./dolphy/" target="_blank">
-                        <img src="images/dolphy.svg" class="client-img" alt="">
-                    </a>
-                </div>
-                <div class="col px-md-5 px-0 ">
+                <div class="col ">
                     <a href="https://condomonk.ca/" target="_blank">
                         <img src="images/condomonk.png" class="client-img2" alt="">
                     </a>
                 </div>
+                <div class="col ">
+                    <a href="./dolphy/" target="_blank">
+                        <img src="images/dolphy.svg" class="client-img" alt="">
+                    </a>
+                </div>
 
 
-                <div class="col px-md-5 px-0 ">
+
+                <div class="col ">
                     <a href="https://lowrise.ca/" target="_blank">
                         <img src="images/lowriselogo.svg" class="client-img" alt="">
                     </a>
                 </div>
-                <div class="col px-md-5 px-0 ">
+                <div class="col ">
                     <a href="https://www.icommission.ca/" target="_blank">
                         <img src="images/icommission.png" class="client-img" alt="">
                     </a>
                 </div>
-                <div class="col px-md-5 px-0 ">
+                <div class="col ">
                     <img src="images/dolphin.png" class="client-img" alt="">
                 </div>
-                <div class="col px-md-5 px-0 ">
+                <div class="col ">
                     <img src="images/baystreet.png" class="client-img" alt="">
                 </div>
 
-                <div class="col px-md-5 px-0 ">
+                <div class="col ">
                     <img src="images/elixar.png" class="client-img" alt="">
                 </div>
 
-                <div class="col px-md-5 px-0 ">
+                <div class="col ">
                     <img src="images/tony.png" class="client-img" alt="">
                 </div>
 

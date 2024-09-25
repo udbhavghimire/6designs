@@ -183,7 +183,6 @@
 .client-img2 {
     object-fit: contain;
     width: 170px !important;
-    height: 230px !important;
 }
 
 .clients {
@@ -597,4 +596,16 @@
     .dolphy {
         height: 100px !important;
     }
+
+    .client-img {
+        object-fit: contain;
+        width: 100px;
+        height: 100px !important;
+    }
+
+    .client-img2 {
+        object-fit: contain;
+        width: 120px !important;
+    }
+
 }
