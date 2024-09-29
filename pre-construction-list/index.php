@@ -33,8 +33,7 @@
     <?php include_once('../components/header.php'); ?>
 
     <section class="container">
-        <h1 class="fw-bold fs1 text-center justify-content-center pt-md-5 py-sm-0 " data-aos="fade-up"
-            data-aos-duration="2000">
+        <h1 class="fw-bold fs1 text-center justify-content-center pt-5" data-aos="fade-up" data-aos-duration="2000">
             List of all the <span class="brand-color"> Preconstruction </span> Platforms and Projects
             <h2 class="mb-2 pt-5 fw-bold">Preconstruction Platforms</h2>
             <div class="row row-cols-2 row-cols-md-4">
