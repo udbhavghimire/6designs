@@ -409,6 +409,13 @@
     }
 }
 
+.list-body {
+    padding-bottom: 5px;
+}
+
+.list-title {
+    font-size: 1.2rem;
+}
 
 @media (max-width: 768px) {
     .word-container {
@@ -608,4 +615,7 @@
         width: 120px !important;
     }
 
+    .list-title {
+        font-size: 1rem;
+    }
 }

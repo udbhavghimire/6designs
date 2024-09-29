@@ -427,6 +427,11 @@
                 </div>
 
             </div>
+            <div class="d-flex justify-content-center align-items-center">
+                <a href="./pre-construction-list/" class=" fs-5  work-hov"> Check out all the list of Preconstruction
+                    platforms
+                    and projects <i class="bi bi-arrow-right"></i></a>
+            </div>
         </div>
     </section>
 
