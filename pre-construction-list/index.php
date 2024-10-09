@@ -323,7 +323,16 @@
                         </div>
                     </div>
                 </div>
+                <div class="col">
+                    <div class="card h-100 border-0">
+                        <div class="list-body">
+                            <h5 class="list-title"><a href="https://thompsontown.ca/" target="_blank"
+                                    class="text-dark text-decoration-none">Thompson Towns</a></h5>
+                        </div>
+                    </div>
+                </div>
             </div>
+
 
             <div class="pt-5"></div>
             <h2 class="mb-2 pt-5 fw-bold">Preconstruction Detached Homes</h2>
@@ -398,8 +407,18 @@
                         </div>
                     </div>
                 </div>
+                <div class="col">
+                    <div class="card h-100 border-0">
+                        <div class="list-body">
+                            <h5 class="list-title"><a href="https://theriverpointe.ca/" target="_blank"
+                                    class="text-dark text-decoration-none">River Pointe</a>
+                            </h5>
+                        </div>
+                    </div>
+                </div>
             </div>
     </section>
+
 
     <div class="my-5  py-md-3 py-1" id="Contact"></div>
     <div class="pt-5 mt-5" data-aos="fade-up" data-aos-duration="2000">
