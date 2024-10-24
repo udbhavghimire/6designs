@@ -558,7 +558,7 @@
             <div class="row d-flex justify-content-center align-items-center">
                 <div class="list pt-3 col-12 text-center">
                     <p><b>Designed with love by</b></p>
-                    <img src="images/udbhav.png" class="signature mt-0 " alt="">
+                    <img src="images/udbhav-black-signtaure.png" class="signature mt-0 " alt="">
                 </div>
             </div>
 
