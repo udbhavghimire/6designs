@@ -499,6 +499,8 @@
                         information provided on this website is for general reference only, and we cannot be held liable
                         for any misuse of the content, including copyrighted materials such as logos and images from
                         builders
+
+
                 </div>
 
                 <div class="col-md-3 mt-md-5 pt-4 mx-md-3 mb-3 center-sm d-flex justify-content-center">
@@ -549,6 +551,14 @@
 
                         </div>
                     </form>
+                </div>
+
+
+            </div>
+            <div class="row d-flex justify-content-center align-items-center">
+                <div class="list pt-3 col-12 text-center">
+                    <p><b>Designed with love by</b></p>
+                    <img src="images/udbhav.png" class="signature mt-0 " alt="">
                 </div>
             </div>
 
