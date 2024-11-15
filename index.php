@@ -197,7 +197,7 @@
 
     <section class="py-sm-3 " data-aos="fade-up" data-aos-duration="2000">
         <div class="container">
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 justify-content-center g-4 mt-2 px-2">
+            <div class="row row-cols-2 row-cols-sm-2 row-cols-lg-3 justify-content-center g-4 mt-2 px-2">
 
                 <!-- <div class="col">
                     <a href="https://alba.homebaba.ca/" target="_blank" class="text-decoration-none">
