@@ -381,7 +381,7 @@
                 </div>
             </div>
             <div class="pt-3 pt-md-5 d-flex justify-content-center align-items-center">
-                <a href="./our-work/" class=" fs-5  work-hov"> View our work <i class="bi bi-arrow-right"></i></a>
+                <a href="./our-work/" class=" fs-5  work-hov"> View all our work <i class="bi bi-arrow-right"></i></a>
             </div>
         </div>
     </section>
@@ -392,7 +392,7 @@
             <h2 class="fw-bold fs-1 pb-2 text-center justify-content-center py-md-3 py-sm-0 ">
                 Our Preconstruction <span class="brand-color">Partners </span>
             </h2>
-            <div class="row row-cols-md-2 row-cols-1 d-flex justify-content-center">
+            <div class="row row-cols-md-2 row-cols-2 d-flex justify-content-center">
 
                 <div class="col">
                     <a href="https://homebaba.ca/" target="_blank" class="text-decoration-none">
@@ -482,6 +482,17 @@
             <div class="row-cols-md-3"></div>
         </div>
     </div>
+
+    <div><a href="#Contact" class="sticky-bottom fixcontact d-md-none text-decoration-none">
+            <div class="shadow-lg rounded-mine d-flex flex-column">
+                <div class="btn my-sm-0 d-flex align-items-center justify-content-center"
+                    style="background-color: #ff0000;">
+                    <span class="text-white">
+                        <b>Contact now</b>
+                    </span>
+                </div>
+            </div>
+        </a></div>
 
 
     <img src="images/mouse.png" class="foot-up-img" alt="" data-aos="fade-up" data-aos-duration="2000">

@@ -361,6 +361,7 @@
             <div class="row-cols-md-3"></div>
         </div>
     </div>
+    <?php include_once('../components/floating-button.php'); ?>
     <?php include_once('../components/footer.php'); ?>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
