@@ -427,7 +427,7 @@
                 </div>
 
             </div>
-            <div class="d-flex justify-content-center align-items-center center-sm">
+            <div class="d-flex justify-content-center align-items-center center-sm pt-md-5 pt-0">
                 <a href="./pre-construction-list/" class=" fs-5  work-hov"> Check out all the list of Preconstruction
                     platforms
                     and projects <i class="bi bi-arrow-right"></i></a>
