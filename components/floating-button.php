@@ -1,4 +1,4 @@
-<div class="sticky-bottom fixcontact d-md-none d-flex justify-content-center gap-4">
+<div class="sticky-bottom fixcontact d-md-none d-flex justify-content-center gap-2">
     <a href="#Contact" class="text-decoration-none">
         <div class="shadow-lg rounded-mine">
             <div class="btn my-sm-0 d-flex align-items-center justify-content-center gap-5 contact-btn py-2 px-4">
