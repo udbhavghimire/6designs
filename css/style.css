@@ -621,17 +621,22 @@
     }
 
     .fixcontact {
+
         bottom: 12px;
-        width: 58%;
+        width: 45%;
         left: 50%;
         transform: translateX(-50%);
         border-radius: 12px;
         position: fixed;
         z-index: 9999;
         display: block !important;
-        background-color: #ffc619 !important;
-        color: #000 !important;
+        background-color: #25D366 !important;
+        color: #ffffff !important;
         text-align: center;
+    }
+
+    .whatsapp-icon {
+        font-size: 20px !important;
     }
 
     .imghei2 {
