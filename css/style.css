@@ -621,23 +621,32 @@
     }
 
     .fixcontact {
-
-        bottom: 12px;
-        width: 45%;
+        position: fixed;
+        bottom: 20px;
         left: 50%;
         transform: translateX(-50%);
-        border-radius: 12px;
-        position: fixed;
         z-index: 9999;
-        display: block !important;
-        background-color: #25D366 !important;
-        color: #ffffff !important;
-        text-align: center;
     }
 
-    .whatsapp-icon {
-        font-size: 20px !important;
+    .whatsapp-btn {
+        background-color: #25D366;
+        white-space: nowrap;
     }
+
+    .whatsapp-btn:hover {
+        background-color: #128C7E;
+    }
+
+    .contact-btn {
+        background-color: #ff0000;
+        white-space: nowrap;
+    }
+
+    .contact-btn:hover {
+        background-color: #cc0000;
+    }
+
+
 
     .imghei2 {
         object-fit: cover;
