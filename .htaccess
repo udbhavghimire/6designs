@@ -1,16 +1,16 @@
 RewriteEngine On
+Options +FollowSymLinks
 
-# Ensure www
-RewriteCond %{HTTP_HOST} !^www\. [NC]
-RewriteRule ^(.*)$ https://www.sixdesign.ca/$1 [L,R=301]
+RewriteBase /
 
-# Handle city pages
+# Skip rewrite for existing toronto directory
+RewriteCond %{REQUEST_URI} !^/toronto-idx-website-for-realtors
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^([a-zA-Z0-9-]+)-idx-website-for-realtors/?$ idx-website-for-realtors/index.php?city=$1 [L,QSA]
+RewriteRule ^([a-z-]+)-idx-website-for-realtors/?$ idx-website-for-realtors/index.php?city=$1 [NC,L,QSA]
 
-# Prevent direct access to PHP files
-<FilesMatch "city-template\.php$">
+# Prevent direct access to template files
+<FilesMatch "(city-template|cities)\.php$">
     Order Deny,Allow
     Deny from all
 </FilesMatch>
