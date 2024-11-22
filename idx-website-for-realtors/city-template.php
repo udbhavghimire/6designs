@@ -1,10 +1,3 @@
-<?php
-// Prevent direct access to this file
-if (!isset($city)) {
-    header('Location: /6designs/404.php');
-    exit;
-}
-?>
 <!doctype html>
 <html lang="en">
 
