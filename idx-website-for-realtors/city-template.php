@@ -1,19 +1,25 @@
+<?php
+// Prevent direct access to this file
+if (!isset($city)) {
+    header('Location: /6designs/404.php');
+    exit;
+}
+?>
 <!doctype html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Toronto Real estate website for realtors | IDX & VOW
-    </title>
+    <title><?php echo $city['name']; ?> Real estate website for realtors | IDX & VOW</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
-    <meta name="title" content="Toronto Real estate website for realtors | IDX & VOW">
-    <meta name="description" content="Toronto Real estate website for realtors | IDX & VOW">
+    <meta name="title" content="<?php echo $city['name']; ?> Real estate website for realtors | IDX & VOW">
+    <meta name="description" content="<?php echo $city['name']; ?> Real estate website for realtors | IDX & VOW">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -24,43 +30,44 @@
         content="Stand Out From The Crowd. Need a beautiful website ? No website is too small or big for us!">
     <meta property="og:image" content="https://sixdesign.ca/images/sixdesign-logo.svg">
 
-    <link rel="stylesheet" href="../css/silverBox.min.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
-
-    <link rel="manifest" href="../site.webmanifest">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>css/silverBox.min.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="<?php echo $base_url; ?>apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="<?php echo $base_url; ?>favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="<?php echo $base_url; ?>favicon-16x16.png">
+    <link rel="manifest" href="<?php echo $base_url; ?>site.webmanifest">
 </head>
 
 <body>
     <?php include_once('../components/header.php'); ?>
 
     <section>
-        <div class="mt-5">
-            <h1 class="text-center pt-md-5 d-flex justify-content-center align-items-center">Toronto Real Estate Website
-                for Realtors | IDX & VOW
+        <div class="mt-5 px-2">
+            <h1 class="text-center pt-md-5 d-flex justify-content-center align-items-center">
+                <?php echo $city['name']; ?> Real Estate Website for Realtors | IDX & VOW
             </h1>
             <div class="d-flex justify-content-center align-items-center">
                 <p class="textt pt-5 mx-4">
-                    <b>Are you a Real estate agent in Toronto and looking for IDX website displaying properties listed
-                        on Toronto? </b>
+                    <b>Are you a Real estate agent in <?php echo $city['name']; ?> and looking for IDX website
+                        displaying properties listed
+                        on <?php echo $city['name']; ?>? </b>
                     <br><br>
                     The IDX (Internet Data Exchange) website for realtors is a powerful and indispensable tool in the
                     real estate industry. IDX websites provide real estate professionals with the ability to display a
                     comprehensive and up-to-date database of property listings directly on their websites, allowing
                     potential buyers and sellers to easily access information on available properties.
                     <br><br>
-                    If you are real estate agent in Toronto and looking to build a Resale website look no further,
+                    If you are real estate agent in <?php echo $city['name']; ?> and looking to build a Resale website
+                    look no further,
                     Sixdesign can help you build a good real estate website. We can complete the task in as less as 3
                     days.
                     <br><br>
+                </p>
             </div>
-
 
             <br>
             <div class="">
                 <h2 class="text-center pt-md-5 d-flex justify-content-center align-items-center">Why is IDX website
-                    important for realtors in Toronto?</h2>
+                    important for realtors in <?php echo $city['name']; ?>?</h2>
             </div>
             <div class="d-flex justify-content-center align-items-center">
                 <p class="d-flex textt mx-4 pt-4">
@@ -70,7 +77,6 @@
                     realtors and clients to navigate the world of real estate and find the perfect home or property,
                     making them an invaluable asset for anyone in the real estate business.
                 </p>
-                </p>
             </div>
 
             <div class="pt-5 container textt">
@@ -78,12 +84,10 @@
                     <div class="col">
                         <a href="https://tonyning.ca/" target="_blank" class="text-decoration-none">
                             <div class="afte">
-                                <img src="../images/2.png" alt="Tony Ning" class="img-fluid rounded-mine imghei">
-                                <div class="img-text">
-
-                                </div>
+                                <img src="<?php echo $base_url; ?>images/2.png" alt="Tony Ning"
+                                    class="img-fluid rounded-mine imghei">
+                                <div class="img-text"></div>
                             </div>
-
                             <div class="img-text">
                                 <p class="img-text">Tony Ning</p>
                             </div>
@@ -92,13 +96,11 @@
 
                     <div class="col">
                         <a href="https://shrutidua.com/" target="_blank" class="text-decoration-none">
-                            <div href="#" class="afte">
-                                <img src="../images/4.png" alt="Shruti Dua" class="img-fluid rounded-mine imghei">
-                                <div class="img-text">
-
-                                </div>
+                            <div class="afte">
+                                <img src="<?php echo $base_url; ?>images/4.png" alt="Shruti Dua"
+                                    class="img-fluid rounded-mine imghei">
+                                <div class="img-text"></div>
                             </div>
-
                             <div class="img-text">
                                 <p class="img-text">Shruti Dua</p>
                             </div>
@@ -151,7 +153,7 @@
                 </div>
                 <div class="d-flex justify-content-center align-items-center">
                     <ol class="textt pt-3 mx-4">
-                        <li class="pb-2"><b>Direct Access to MLS:</b>VOW websites, on the other hand, offer direct
+                        <li class="pb-2"><b>Direct Access to MLS:</b> VOW websites, on the other hand, offer direct
                             access to the Multiple Listing Service (MLS). This means that users can access more detailed
                             and comprehensive property information, including historical data, property history, and
                             even information on properties not currently on the market.</li>
@@ -161,24 +163,17 @@
                         <li class="pb-2"><b>Enhanced Property Data:</b> VOW websites provide in-depth property
                             information, including past sales, price changes, and property history. This wealth of
                             information can be invaluable for serious homebuyers and investors.</li>
-                        <li class="pb-2"><b>Agent Collaboration: </b>VOWs often encourage users to work closely with a
+                        <li class="pb-2"><b>Agent Collaboration: </b> VOWs often encourage users to work closely with a
                             specific agent or broker. These platforms may offer advanced search options and tools for
                             collaborating with real estate professionals.</li>
                     </ol>
-                    </p>
                 </div>
             </div>
     </section>
     <div class="my-5  py-md-3 py-1" id="Contact"></div>
     <div class="pt-5 mt-5" data-aos="fade-up" data-aos-duration="2000">
         <div class="row mx-0 ">
-            <img src="../images/contact-img.webp" loading="lazy" class="img-fluid cnt-img" alt="">
-            <!-- <h6 class="text-center fs-1 fw-bold pt-3 register "> Contact us today</h6> -->
-            <div class="registertext  d-flex justify-content-center align-items-center  text-center px-5">
-                <!-- <p>Need a beautiful website ? No website is too small or big for us!
-                </p> -->
-            </div>
-
+            <img src="<?php echo $base_url; ?>images/contact-img.webp" loading="lazy" class="img-fluid cnt-img" alt="">
         </div>
         <div class="row row-cols-1 row-cols-md-3 mx-0 g-5 pb-md-5">
             <div class="col-md-3 "></div>
@@ -186,7 +181,6 @@
                 <form action="../contactForm.php" method="POST">
                     <div class="row ">
                         <div class="mb-3 "><input type="text" placeholder="Name" name="name" class="fields"></div>
-
                     </div>
                     <div class="row row-cols-1 row-cols-sm-2 ">
                         <div class="col">
@@ -204,7 +198,7 @@
                     </div>
                     <div class="row">
                         <p class=" text-muted sm-text text-center">I consent to receive future communications about
-                            Sixdesigns. I understand I can opt out at anytime by sending am email.</p>
+                            Sixdesigns. I understand I can opt out at anytime by sending an email.</p>
                     </div>
                     <div class="row">
                         <div class="col text-center"><input type="submit" value="Send"
@@ -233,13 +227,10 @@
             if (window.scrollY > 0) {
                 navbar.classList.remove('transparent-navbar');
                 navbar.classList.add('solid-navbar', 'navbar-brand-sm');
-
-
             } else {
                 navbar.classList.remove('navbar-brand-sm');
                 navbar.classList.remove('solid-navbar');
                 navbar.classList.add('transparent-navbar');
-
             }
         });
     </script>

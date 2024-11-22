@@ -656,3 +656,11 @@
 .fixcontact {
     display: none;
 }
+
+.hover-red {
+    color: black !important;
+}
+
+.hover-red:hover {
+    color: red !important;
+}
