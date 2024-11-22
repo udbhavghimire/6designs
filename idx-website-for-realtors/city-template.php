@@ -1,3 +1,12 @@
+<?php
+// Prevent direct access to this file
+if (!isset($city)) {
+    $base_url = (strpos($_SERVER['HTTP_HOST'], 'localhost') !== false) ? '/6designs/' : '/';
+    header('Location: ' . $base_url . '404.php');
+    exit;
+}
+?>
+
 <!doctype html>
 <html lang="en">
 
