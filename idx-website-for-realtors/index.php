@@ -3,22 +3,24 @@ $base_url = (strpos($_SERVER['HTTP_HOST'], 'localhost') !== false) ? '/6designs/
 
 require_once(__DIR__ . '/../config/cities.php');
 
-// Get city from URL parameter and clean it
+// Get city from URL
 $city_slug = isset($_GET['city']) ? strtolower(trim($_GET['city'])) : '';
 
-// Special handling for Toronto's direct folder
-if (empty($city_slug) && strpos($_SERVER['REQUEST_URI'], 'toronto-idx-website-for-realtors') !== false) {
-    $city_slug = 'toronto';
+// Special case for Toronto's direct folder
+if (empty($city_slug)) {
+    $request_uri = $_SERVER['REQUEST_URI'];
+    if (strpos($request_uri, 'toronto-idx-website-for-realtors') !== false) {
+        $city_slug = 'toronto';
+    }
 }
 
-// Debug information
-error_log("Request URI: " . $_SERVER['REQUEST_URI']);
-error_log("City slug: " . $city_slug);
-error_log("Available cities: " . print_r(array_keys($cities), true));
+// Debug logging
+error_log('Requested URI: ' . $_SERVER['REQUEST_URI']);
+error_log('City slug: ' . $city_slug);
 
-// Check if city exists in config
+// Validate city
 if (empty($city_slug) || !isset($cities[$city_slug])) {
-    error_log("City not found: " . $city_slug);
+    error_log('Invalid city: ' . $city_slug);
     header("HTTP/1.0 404 Not Found");
     include(__DIR__ . '/../404.php');
     exit;

@@ -1,0 +1,6 @@
+# Turn on rewrite engine
+RewriteEngine On
+
+# Handle city pages (except Toronto which has its own directory)
+RewriteCond %{REQUEST_URI} !^/toronto-idx-website-for-realtors
+RewriteRule ^([^/]+)-idx-website-for-realtors/?$ /idx-website-for-realtors/index.php?city=$1 [L,QSA] 
