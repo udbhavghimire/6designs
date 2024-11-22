@@ -63,11 +63,11 @@ $base_url = (strpos($_SERVER['HTTP_HOST'], 'localhost') !== false) ? '/6designs/
                     <li class="py-2 "><a href="<?php echo $base_url; ?>calgary-idx-website-for-realtors/"
                             class="text-decoration-none hover-red">Calgary Real Estate Website</a></li>
                     <li class="py-2 "><a href="<?php echo $base_url; ?>ottawa-idx-website-for-realtors/"
-                            class="text-decoration-none hover-red">Regina Real Estate Website</a></li>
-                    <li class="py-2 "><a href="<?php echo $base_url; ?>regina-idx-website-for-realtors/"
-                            class="text-decoration-none hover-red">Winnipeg Real Estate Website</a></li>
-                    <li class="py-2 "><a href="<?php echo $base_url; ?>winnipeg-idx-website-for-realtors/"
                             class="text-decoration-none hover-red">Ottawa Real Estate Website</a></li>
+                    <li class="py-2 "><a href="<?php echo $base_url; ?>regina-idx-website-for-realtors/"
+                            class="text-decoration-none hover-red">Regina Real Estate Website</a></li>
+                    <li class="py-2 "><a href="<?php echo $base_url; ?>winnipeg-idx-website-for-realtors/"
+                            class="text-decoration-none hover-red">Winnipeg Real Estate Website</a></li>
 
                 </ul>
             </div>
