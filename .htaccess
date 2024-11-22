@@ -1,15 +1,7 @@
 RewriteEngine On
-Options +FollowSymLinks
 
-# Skip existing files and directories
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-
-# Skip Toronto directory
-RewriteCond %{REQUEST_URI} !^/toronto-idx-website-for-realtors
-
-# Route all other city requests to the cities handler
-RewriteRule ^([a-z-]+)-idx-website-for-realtors/?$ idx-website-for-realtors/cities/index.php [L,QSA]
+# Redirect all city requests (except Toronto) to cities handler
+RedirectMatch 301 ^/([^/]+)-idx-website-for-realtors/?$ /idx-website-for-realtors/cities/index.php?city=$1
 
 # Prevent direct access to template files
 <FilesMatch "(city-template|cities)\.php$">
