@@ -10,5 +10,11 @@ RewriteCond %{REQUEST_FILENAME} !-d
 # Route city-idx-website-for-realtors URLs
 RewriteRule ^([^/]+)-idx-website-for-realtors/?$ idx-website-for-realtors/index.php?city=$1 [NC,L,QSA]
 
+# Add a trailing slash if missing
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !(.*)/$
+RewriteRule ^(.*)$ $1/ [L,R=301]
+
 # Prevent direct access to the city-template.php
 RewriteRule ^idx-website-for-realtors/city-template\.php - [F,L]
