@@ -3,4 +3,12 @@ RewriteEngine On
 
 RewriteBase /
 
+# Allow direct access to files
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Route city-idx-website-for-realtors URLs
 RewriteRule ^([^/]+)-idx-website-for-realtors/?$ idx-website-for-realtors/index.php?city=$1 [NC,L,QSA]
+
+# Prevent direct access to the city-template.php
+RewriteRule ^idx-website-for-realtors/city-template\.php - [F,L]
