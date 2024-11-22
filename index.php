@@ -1,4 +1,7 @@
 <?php
+// Enable error reporting at the very top
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 $base_url = (strpos($_SERVER['HTTP_HOST'], 'localhost') !== false) ? '/6designs/' : '/';
 ?>
 <!doctype html>

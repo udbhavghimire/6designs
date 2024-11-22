@@ -1,9 +1,18 @@
-RewriteEngine On
-RewriteBase /6designs/
+# for local development
+# RewriteEngine On
+# RewriteBase /6designs/
 
-# If the request is not for a real file or directory
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-d
+
+# RewriteRule ^([^/]+)-idx-website-for-realtors/?$ idx-website-for-realtors/index.php?city=$1 [NC,L,QSA]
+
+
+ # for sixdesign.ca
+RewriteEngine On
+RewriteBase /
+
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
-# Route all city-idx-website-for-realtors requests to the idx-website-for-realtors/index.php
-RewriteRule ^([^/]+)-idx-website-for-realtors/?$ idx-website-for-realtors/index.php?city=$1 [L,QSA] 
+RewriteRule ^([^/]+)-idx-website-for-realtors/?$ idx-website-for-realtors/index.php?city=$1 [NC,L,QSA]
